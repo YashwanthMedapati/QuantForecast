@@ -1,4 +1,4 @@
-# Stock Market Prediction Program
+# QuantForecast
 
 This repository contains a stock trading and forecasting program developed to assist users in maximizing their profits through intelligent buying and selling decisions. The program utilizes Python programming language and popular libraries such as SKlearn, pandas, numpy, and PyTorch for efficient data analysis, manipulation, and machine learning tasks.
 
@@ -12,4 +12,3 @@ This repository contains a stock trading and forecasting program developed to as
 
 
 Happy Predictions!!!
--vivek raj
